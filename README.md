@@ -27,7 +27,7 @@
 
 - :telescope: I’m Student of Bachelor of Technology with specialisation in Information Technology and a Data Science enthusiast.
 
-- :seedling: A freelance Data Analyst expertise in Healthcare.
+- :seedling: A freelance Data Analyst with expertise in Healthcare solutions.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
